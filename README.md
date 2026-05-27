@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**coderbit96/coderbit96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Developer:
+    def __init__(self):
+        self.name = "Coderbit96"
+        self.location = "Earth 🌍"
+        self.role = "Full Stack Developer"
+        self.languages = ["JavaScript", "Python", "TypeScript", "Java"]
+        self.interests = ["Web Dev", "Open Source", "AI/ML", "DevOps"]
+        self.learning = ["Advanced System Design", "Cloud Architecture"]
+    
+    def say_hello(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
