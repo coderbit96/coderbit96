@@ -1,149 +1,195 @@
-<div align="center">
-
 # 💫 Hi There, I'm Joydip Ghosh! 👋
-### Full Stack Developer (MERN + Next.js) | AI & Cloud Enthusiast | Building Tomorrow's Web 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+%2B+Next.js+Developer+%F0%9F%92%BB;AI+%26+Cloud+Enthusiast+%F0%9F%A4%96;Production-Ready+SaaS+Builder+%E2%9C%85;Open+for+Collaboration+%F0%9F%A4%9D;Let's+Build+Something+Amazing!" alt="Typing Animation" />
+### Frontend Developer | WordPress & SEO Enthusiast | Building Clean & Responsive Websites 🚀
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Frontend+Developer+%F0%9F%92%BB;WordPress+%26+Website+Management+Expert+%F0%9F%8C%90;SEO+%26+Live+Deployment+Enthusiast+%F0%9F%9A%80;AI+Tools+for+Productivity+%F0%9F%A4%96;Open+for+Internships+%26+Collaboration+%F0%9F%A4%9D" alt="Typing Animation" />
 
 <br>
 
-<a href="https://sourav.is-a.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=111827&labelColor=FFFFFF" />
-</a>
-<a href="https://linkedin.com/in/souravchowdhury-2003r" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=FFFFFF" />
-</a>
-<a href="mailto:souravchowdhury0203@gmail.com">
+<div align="center">
+
+<a href="mailto:joydip.work.mail@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFFFFF" />
 </a>
-<a href="https://github.com/sourav81R" target="_blank">
+
+<a href="https://github.com/" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=181717&labelColor=FFFFFF" />
 </a>
 
 </div>
 
-## 🚀 About Me
+---
 
-> **Final Year B.Tech CSE Student | Full Stack Developer (MERN + Next.js)**
+# 🚀 About Me
 
-I'm passionate about building **scalable web and mobile applications** and **AI-powered solutions**. With expertise in the **MERN stack, Next.js, and React Native**, I transform ideas into production-ready products.
+> **Electronics Engineering Graduate | Frontend & Website Operations Enthusiast**
 
-- 🔭 Currently working on **AI-powered SaaS applications and full-stack projects**
-- 🌱 Exploring **Next.js App Router, TypeScript, and advanced AI integrations**
-- 💼 Completed internship at **Pinnacle Labs Pvt. Ltd.** — frontend engineering & API consumption
-- 🎯 Focused on **clean architecture, responsive design & solving real-world problems**
-- 🤝 Open to **internships, entry-level roles & open-source collaboration**
-- 📧 Reach me at **souravchowdhury0203@gmail.com**
-- ⚡ Fun fact: **I believe in learning by building — every project makes me better!**
+I’m passionate about creating **responsive websites**, managing **live deployments**, and improving digital experiences through **clean UI, SEO optimization, and modern web tools**. I enjoy blending development with creativity to build practical and engaging web solutions.
 
-<div align="center">
-
-### 🎓 **Education**
-
-**B.Tech in Computer Science & Engineering** | CGPA: **7.75/10**
-Greater Kolkata College of Engineering & Management (2022 - 2026)
-
-</div>
-
-## 💻 Tech Stack & Skills
-
-<div align="center">
-
-### **Programming Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,py,c" />
-</p>
-
-### **Frontend Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,angular,vue,redux" />
-</p>
-
-### **Backend Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb" />
-</p>
-
-### **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
-</p>
-
-### **AI & Cloud**
-<p>
-  <img src="https://skillicons.dev/icons?i=gcp,vercel,netlify" />
-</p>
-
-### **Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-</div>
-
-## 🧩 Featured Projects
-
-### 🔍 [ResumeIQ – AI Resume Analyzer & ATS Optimizer](https://resume-iq-coral.vercel.app)
-> **Next.js 14 · TypeScript · Firebase · OpenAI API · Tailwind CSS · Vercel**
-
-- Built a production-ready SaaS app with AI-powered resume analysis
-- Implemented Google Auth, protected routes, secure session cookies & Firestore data modeling
-- Developed ATS scoring, keyword match %, skill gap detection & feedback generation
-- Designed weighted scoring algorithm with dynamic dashboard & PDF report export
+* 🔭 Currently working on **website management, deployment & optimization**
+* 🌱 Exploring **modern frontend technologies and AI-powered workflows**
+* 💼 Worked as **Jr. Software Developer at ONE IS OK**
+* 🎯 Focused on **responsive design, hosting, SEO & smooth user experience**
+* 🤝 Open to **internships, freelance work & collaboration opportunities**
+* 📧 Reach me at **[joydip.work.mail@gmail.com](mailto:joydip.work.mail@gmail.com)**
+* ⚡ Fun fact: **I love using AI tools to work smarter and faster!**
 
 ---
 
-### 🍕 [Foodooza – Real-Time Food Delivery App](https://food-app-frontend-lh2k.onrender.com/)
-> **React.js · Node.js · Express.js · MongoDB · JWT Auth · Tailwind CSS · Render**
+<div align="center">
 
-- Constructed interactive client modules integrated with backend operations
-- Implemented authentication system and session handling
-- Administered database communication ensuring transactional accuracy
-- Prepared deployment runbooks and troubleshooting references
+## 🎓 Education
+
+### **B.Tech in Electronics Engineering**
+
+**MAKAUT (2021 - 2025)**
+📊 CGPA: **7.25 / 10**
+
+</div>
 
 ---
 
-### 🏠 [EstatePerks – Property Visit & Rewards Tracker](https://estate-perks.vercel.app/)
-> **React Native · Expo · JavaScript ES6+ · AsyncStorage · REST APIs · Node.js**
-
-- Delivered a cross-platform mobile solution using React Native and Expo
-- Established dynamic navigation architecture with persistent storage
-- Synchronized live data via RESTful services
-- Practiced component-driven and lifecycle-based development standards
-
-## 🏅 Certifications
-
-- ☁️ **AWS Cloud Foundations & Data Engineering** | AWS
-- 🖥️ **Full-Stack (MERN) Training** | Euphoria GenX
-- 🤖 **AI-ML Virtual Internship** | EduSkills
-- 💡 **Appreciation of Digital Literacy** | Capgemini
-
-## ☕ Support My Work
+# 💻 Tech Stack & Skills
 
 <div align="center">
 
-If you like my work and want to support me, consider buying me a coffee! ☕
+## 🌐 Frontend Development
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/souravchowdhury)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+## ⚙️ Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+</p>
+
+## 🛠️ Website Management & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,vscode,github" />
+</p>
+
+## ☁️ Hosting & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=netlify" />
+</p>
+
+## 🎨 Design & Productivity
+
+<p>
+  <img src="https://skillicons.dev/icons?i=canva" />
+</p>
 
 </div>
 
-## ✍️ Random Dev Quote
+---
+
+# 💼 Professional Experience
+
+## 🏢 ONE IS OK
+
+### Jr. Software Developer *(Nov 2025 – Present)*
+
+* Managed website updates, content layouts, and UI improvements
+* Worked on live website deployment, hosting setup, and DNS configuration
+* Performed basic coding updates and debugging for website optimization
+* Implemented on-page SEO techniques for better search visibility
+* Managed WordPress themes, content updates, and hosting integration
+* Created graphics, posters, and promotional content using Canva
+* Utilized AI tools like ChatGPT, Gemini, Claude, Replit, and Stitch for productivity enhancement
+* Prepared service quotations and handled operational documentation
+
+---
+
+# 🧩 Featured Projects
+
+## 🌡️ Temperature-Based Fan Speed Control & Monitoring System
+
+> **Arduino · Sensors · Automation**
+
+* Developed an automation system that controls fan speed based on surrounding temperature
+* Improved energy efficiency through dynamic speed adjustment
+* Implemented sensor-based monitoring and responsive hardware interaction
+
+---
+
+## 🍽️ Restaurant Website Design
+
+> **HTML · CSS · Responsive Design**
+
+* Designed a responsive restaurant website with modern layouts
+* Focused on attractive UI and mobile-friendly user experience
+* Structured clean navigation and visual hierarchy
+
+---
+
+## 🎓 Education Website Design
+
+> **HTML · CSS · UI Design**
+
+* Created an educational website interface with accessibility-focused design
+* Built responsive layouts for better usability across devices
+* Improved content presentation with clean and minimal styling
+
+---
+
+## 🌐 Personal Portfolio Website
+
+> **HTML · CSS · JavaScript**
+
+* Developed a personal portfolio website to showcase projects and skills
+* Implemented responsive design principles and interactive sections
+* Focused on performance, readability, and clean presentation
+
+---
+
+# 🏅 Key Skills
+
+* ✅ HTML5, CSS3, JavaScript
+* ✅ WordPress Website Management
+* ✅ Website Deployment & Hosting
+* ✅ DNS Configuration & Live Hosting
+* ✅ On-Page SEO Optimization
+* ✅ Website Content Management
+* ✅ Basic Coding & Debugging
+* ✅ Canva Design & Social Media Graphics
+* ✅ AI Tools for Productivity & Prompt Engineering
+* ✅ Billing & Service Quotation Handling
+* ✅ MS Office
+
+---
+
+# ☕ Support My Work
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+If you like my work and want to support me, consider connecting and collaborating! 🚀
 
 </div>
 
+---
+
+# ✍️ Random Dev Quote
+
 <div align="center">
 
-### 💼 **Open to Internships | Entry-Level Roles | Collaboration Opportunities**
+> **"Learning never exhausts the mind — every project is a new opportunity to grow."**
 
-**"Code is like humor. When you have to explain it, it's bad!"** 😄
+</div>
+
+---
+
+<div align="center">
+
+## 💼 Open to Internships | Freelance Work | Collaboration Opportunities
+
+**"Good design is obvious. Great design is transparent."** ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%" />
 
-**Made by Sourav Chowdhury**
+### Made with ❤️ by Joydip Ghosh
 
 </div>
