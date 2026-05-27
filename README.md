@@ -89,7 +89,7 @@ I’m passionate about creating **responsive websites**, managing **live deploym
 
 # 💼 Professional Experience
 
-## 🏢 ONE IS OK
+## 🏢 ONE IS OK Digital Solutions
 
 ### Jr. Software Developer *(Nov 2025 – Present)*
 
@@ -184,7 +184,7 @@ If you like my work and want to support me, consider connecting and collaboratin
 
 <div align="center">
 
-## 💼 Open to Internships | Freelance Work | Collaboration Opportunities
+## 💼 Open to Work | Freelance Work | Collaboration Opportunities
 
 **"Good design is obvious. Great design is transparent."** ✨
 
