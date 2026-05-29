@@ -2,7 +2,7 @@
 
 ### Web Developer | WordPress & SEO Enthusiast | Building Clean & Responsive Websites 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Web+Developer+%F0%9F%92%BB;Website Development+%26+Website+Management+Expert+%F0%9F%8C%90;SEO+%26+Live+Deployment+Enthusiast+%F0%9F%9A%80;AI+Tools+for+Productivity+%F0%9F%A4%96;Open+for+Internships+%26+Collaboration+%F0%9F%A4%9D" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Web+Developer+%F0%9F%92%BB;Website+Development+%26+Website+Management+Expert+%F0%9F%8C%90;SEO+%26+Live+Deployment+Enthusiast+%F0%9F%9A%80;AI+Tools+for+Productivity+%F0%9F%A4%96;Open+for+Internships+%26+Collaboration+%F0%9F%A4%9D" alt="Typing Animation" />
 
 <br>
 
